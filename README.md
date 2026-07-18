@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2761,50:028090,100:02C39A&height=220&section=header&text=Srushti%20Surwase&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Data%20Analyst&descAlignY=52&descSize=18" width="100%"/>
+<img src="./assets/banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=028090&center=true&vCenter=true&width=650&lines=Turning+50%2C000%2B-record+datasets+into+decisions;Building+AI+backend+systems+%26+multi-agent+pipelines;EDA+%C2%B7+ML+Pipelines+%C2%B7+Power+BI+%C2%B7+Agentic+AI;Currently+seeking+Data+Analyst+%2F+ML+internships" alt="Typing SVG" /></a>
 
@@ -149,8 +149,8 @@ Startup crowdfunding platform for India's Tier-2/3 cities, integrating AI-powere
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SrushtiSurwase-14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrushtiSurwase-14&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SrushtiSurwase-14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrushtiSurwase-14&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
@@ -161,12 +161,14 @@ Startup crowdfunding platform for India's Tier-2/3 cities, integrating AI-powere
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrushtiSurwase-14&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<sub>If a stats card above shows a broken icon, it's the shared free hosting getting rate-limited — not your data. It clears on its own within a few minutes, or see the self-hosting fix in the setup notes below for a permanent solution.</sub>
+
 <div align="center">
 
 ### 💬 Let's Build Something
 
 If you're hiring for **Data Analyst, Data Science, or Backend** roles — or just want to talk about turning messy data into clean decisions — my inbox is open.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02C39A,50:028090,100:1E2761&height=120&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
 
 </div>
