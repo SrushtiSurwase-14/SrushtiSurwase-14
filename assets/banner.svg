@@ -1,0 +1,38 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E2761"/>
+      <stop offset="50%" stop-color="#028090"/>
+      <stop offset="100%" stop-color="#02C39A"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.18"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.14"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- soft decorative circles -->
+  <circle cx="1080" cy="40" r="140" fill="#ffffff" opacity="0.05"/>
+  <circle cx="1150" cy="120" r="90" fill="#ffffff" opacity="0.06"/>
+  <circle cx="70" cy="260" r="70" fill="#ffffff" opacity="0.05"/>
+
+  <!-- title -->
+  <text x="80" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700" fill="#ffffff">
+    Srushti Surwase
+  </text>
+
+  <!-- tagline -->
+  <text x="82" y="168" font-family="Verdana, Arial, sans-serif" font-size="20" fill="#CFE3DD">
+    AI &amp; AI & Data Science Engineer  |  Data Analyst
+  </text>
+
+  <!-- waves at bottom -->
+  <path d="M0,230 C150,200 300,260 480,235 C660,210 780,255 960,230 C1080,215 1150,235 1200,225 L1200,300 L0,300 Z" fill="url(#wave1)"/>
+  <path d="M0,255 C180,235 360,275 540,255 C720,235 860,270 1020,255 C1100,247 1150,258 1200,252 L1200,300 L0,300 Z" fill="url(#wave2)"/>
+</svg>
