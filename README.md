@@ -86,7 +86,7 @@ Automated data-cleaning pipeline for 50,000+ records, deep EDA surfacing critica
 </td>
 <td width="50%">
 
-### 💸 EquiRise
+### 💸 EquiRise *(in progress)*
 Startup crowdfunding platform for India's Tier-2/3 cities, integrating AI-powered due diligence scoring and SEBI compliance checks for founders and investors.
 
 `Python` `Claude API` `FinTech`
@@ -144,7 +144,7 @@ Startup crowdfunding platform for India's Tier-2/3 cities, integrating AI-powere
 
 - **Ex-Committee Member, ADSA** (AI & Data Science Student Association) — planned & executed technical events, coding competitions and workshops
 - **Member, Genesis Coding Club** — active hackathon and coding-challenge participant
-  
+- **IAENG Member** — presented data-driven research at college-level competitions
 
 ## 📊 GitHub Stats
 
