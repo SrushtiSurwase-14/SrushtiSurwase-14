@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2761,50:028090,100:02C39A&height=220&section=header&text=Srushti%20Surwase&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Data%20Analyst&descAlignY=52&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=028090&center=true&vCenter=true&width=650&lines=Turning+50%2C000%2B-record+datasets+into+decisions;Building+multi-agent+AI+systems+with+Python;EDA+%C2%B7+ML+Pipelines+%C2%B7+Power+BI+%C2%B7+Agentic+AI;Currently+seeking+Data+Analyst+%2F+ML+internships" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=028090&center=true&vCenter=true&width=650&lines=Turning+50%2C000%2B-record+datasets+into+decisions;Building+AI+backend+systems+%26+multi-agent+pipelines;EDA+%C2%B7+ML+Pipelines+%C2%B7+Power+BI+%C2%B7+Agentic+AI;Currently+seeking+Data+Analyst+%2F+ML+internships" alt="Typing SVG" /></a>
 
 <p>
 <a href="https://www.linkedin.com/in/srushti-surwase"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -20,7 +20,7 @@
 <table>
 <tr>
 <td align="center" width="25%"><h2>50,000+</h2>records cleaned, validated<br/>& analyzed end-to-end</td>
-<td align="center" width="25%"><h2>2</h2>live enterprise internships<br/>delivering measurable outcomes</td>
+<td align="center" width="25%"><h2>2</h2>real-world builds:<br/>enterprise analytics + startup backend</td>
 <td align="center" width="25%"><h2>3+</h2>production-style ML/AI<br/>systems shipped solo</td>
 <td align="center" width="25%"><h2>7.95</h2>current CGPA<br/>AI & Data Science, SPPU</td>
 </tr>
@@ -28,9 +28,10 @@
 
 ## 🙋‍♀️ About Me
 
-Final-year **AI & Data Science** undergraduate at Late G.N. Sapkal College of Engineering, Nashik, who treats every dataset like it has a business decision hiding inside it. I've spent the last two internships turning raw, messy, 50K+ record datasets into Power BI dashboards that non-technical stakeholders actually act on — and the last year building multi-agent AI systems and ML pipelines that go beyond notebook demos.
+Final-year **AI & Data Science** undergraduate at Late G.N. Sapkal College of Engineering, Nashik, who treats every dataset like it has a business decision hiding inside it. I've turned raw, messy, 50K+ record datasets into Power BI dashboards that non-technical stakeholders actually act on, and designed backend architecture for a startup product feature from scratch — the last year has been about building AI systems that go beyond notebook demos.
 
 - 🔭 **Building:** ORACLE — a distributed multi-agent research engine with orchestration, fact-verification & synthesis agents
+- ⚙️ **Shipped:** backend scaling architecture (load balancer, Redis, read replicas, message queues) and a "Daily Priority Deck" feature for a startup product
 - 🌾 **Shipped:** an end-to-end crop yield prediction system (Random Forest + XGBoost + CNN leaf-disease detection) with a multilingual UI for rural farmer access
 - 💼 **Open to:** Data Analyst, Data Science, and Backend Development internships
 - 🎯 **Superpower:** taking a 50,000-record mess and making it boardroom-ready in days, not weeks
@@ -46,9 +47,9 @@ Final-year **AI & Data Science** undergraduate at Late G.N. Sapkal College of En
 <td>Validated 50,000+ enterprise records · built live Power BI risk-analytics dashboards · deployed KPI tracking that surfaced real operational bottlenecks</td>
 </tr>
 <tr>
-<td><b>Data Analytics Intern</b></td>
-<td>Nirmiti Precision Pvt. Ltd.<br/><sub>Jan 2026 – Feb 2026</sub></td>
-<td>Delivered a 45-day live analytics project with measurable business outcomes, refined iteratively on senior-stakeholder feedback</td>
+<td><b>AI Backend Developer</b></td>
+<td>Build Pune Together (Startup)<br/><sub>2026</sub></td>
+<td>Designed the "Daily Priority Deck" feature end-to-end (product thinking + spec) · engineered scaling architecture — load balancer, Redis caching, read replicas, and message queues — for high-traffic backend reliability</td>
 </tr>
 </table>
 
@@ -97,7 +98,7 @@ Startup crowdfunding platform for India's Tier-2/3 cities, integrating AI-powere
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=py,cpp,c,sql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=py,cpp,c,sql,git,github,vscode,redis" />
 </p>
 <p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -111,9 +112,21 @@ Startup crowdfunding platform for India's Tier-2/3 cities, integrating AI-powere
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 <p>
+<b>AI / LLM Engineering</b><br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-6A0DAD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic_AI-6A0DAD?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 <img src="https://img.shields.io/badge/CNN%2FDeep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+<p>
+<b>Backend & Systems</b><br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
 ## 🎓 Certifications
@@ -124,6 +137,8 @@ Startup crowdfunding platform for India's Tier-2/3 cities, integrating AI-powere
 <img src="https://img.shields.io/badge/AI_Fundamentals-IBM_Skills_Build-052FAD?style=flat-square&logo=ibm"/>
 <img src="https://img.shields.io/badge/HAL_Project_Competition-Participant-8A2BE2?style=flat-square"/>
 </p>
+
+> 📌 *Have a recent certificate to add here? Send me the name + issuer and I'll drop in a matching badge.*
 
 ## 🏆 Leadership
 
@@ -136,10 +151,6 @@ Startup crowdfunding platform for India's Tier-2/3 cities, integrating AI-powere
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SrushtiSurwase-14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrushtiSurwase-14&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SrushtiSurwase-14&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
