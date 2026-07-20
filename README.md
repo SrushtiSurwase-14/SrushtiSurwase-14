@@ -6,7 +6,7 @@
 <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/SrushtiSurwase-14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Turning+messy+data+into+decisions;Building+AI+agents+with+Claude+%26+NeMo;Final+Year+AI+%26+Data+Science+student%;Open+to+Data+Science+Data Analyst%2F+Backend+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Turning+messy+data+into+decisions;Building+AI+agents+with+Claude+%26+NeMo;4th+Year+AI+%26+Data+Science+%40+GNSCOE;Open+to+Data+Science+%2F+Backend+Internships" alt="Typing SVG" />
 
 </div>
 
@@ -77,7 +77,7 @@ End-to-end analytics project: Pearson correlation, t-tests, and control-store ma
 
 **Languages & Core**
 <br>
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,sql,AI,ML" />
 
 **Data Science & ML**
 <br>
@@ -112,7 +112,7 @@ End-to-end analytics project: Pearson correlation, t-tests, and control-store ma
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SrushtiSurwase-14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrushtiSurwase-14&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SrushtiSurwase-14&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=SrushtiSurwase-14&theme=tokyonight&hide_border=true" />
 
 </div>
 
