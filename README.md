@@ -1,174 +1,132 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Hey,%20I'm%20Srushti%20Surwase%20👋&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20|%20Building%20with%20LLMs%2C%20Data%20%26%20ML&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=028090&center=true&vCenter=true&width=650&lines=Turning+50%2C000%2B-record+datasets+into+decisions;Building+AI+backend+systems+%26+multi-agent+pipelines;EDA+%C2%B7+ML+Pipelines+%C2%B7+Power+BI+%C2%B7+Agentic+AI;Currently+seeking+Data+Analyst+%2F+ML+internships" alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/SrushtiSurwase-14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<p>
-<a href="https://www.linkedin.com/in/srushti-surwase"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:srushtisurwase60@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/SrushtiSurwase-14"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=SrushtiSurwase-14&style=for-the-badge&color=028090&label=PROFILE+VIEWS"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Turning+messy+data+into+decisions;Building+AI+agents+with+Claude+%26+NeMo;4th+Year+AI+%26+Data+Science+%40+GNSCOE;Open+to+Data+Science+%2F+Backend+Internships" alt="Typing SVG" />
 
 </div>
 
-<br/>
+---
 
-## ⚡ Why I'm Worth a Second Look
+### 🧭 About Me
 
-<table>
-<tr>
-<td align="center" width="25%"><h2>50,000+</h2>records cleaned, validated<br/>& analyzed end-to-end</td>
-<td align="center" width="25%"><h2>2</h2>real-world builds:<br/>enterprise analytics + startup backend</td>
-<td align="center" width="25%"><h2>3+</h2>production-style ML/AI<br/>systems shipped solo</td>
-<td align="center" width="25%"><h2>7.95</h2>current CGPA<br/>AI & Data Science, SPPU</td>
-</tr>
-</table>
+I'm a final-year **B.E. student in Artificial Intelligence & Data Science** at Late G.N. Sapkal College of Engineering, Nashik, with hands-on experience turning raw data into business decisions and shipping AI-powered products end-to-end.
 
-## 🙋‍♀️ About Me
+- 🔭 Currently building **EquiRise** — a startup crowdfunding platform for India's Tier-2/3 cities, powered by the Claude API for AI-driven due diligence scoring
+- 🧪 Also building **MedLingua-IN (AGENIX)** — a synthetic Indian-language clinical data pipeline using NVIDIA NeMo, for a healthcare AI hackathon
+- 📊 Completed real-world data internships at **TechnoKraft Services LLP** (Power BI dashboards, large-scale data processing) and **Nirmiti Precision Pvt. Ltd.** (data wrangling & statistical reporting)
+- 🎓 Completed the **Quantium Data Analytics Virtual Internship** — full Python-based uplift testing, hypothesis testing, and client-facing insights presentation
+- 🌱 Actively learning: LLM engineering, RAG pipelines, LangChain, multi-agent AI systems
+- 🎯 Looking for: **Data Science / Data Analytics / Backend Development internships**
+- 📍 Based in Pune / Nashik, Maharashtra, India
 
-Final-year **AI & Data Science** undergraduate at Late G.N. Sapkal College of Engineering, Nashik, who treats every dataset like it has a business decision hiding inside it. I've turned raw, messy, 50K+ record datasets into Power BI dashboards that non-technical stakeholders actually act on, and designed backend architecture for a startup product feature from scratch — the last year has been about building AI systems that go beyond notebook demos.
+---
 
-- 🔭 **Building:** ORACLE — a distributed multi-agent research engine with orchestration, fact-verification & synthesis agents
-- ⚙️ **Shipped:** backend scaling architecture (load balancer, Redis, read replicas, message queues) and a "Daily Priority Deck" feature for a startup product
-- 🌾 **Shipped:** an end-to-end crop yield prediction system (Random Forest + XGBoost + CNN leaf-disease detection) with a multilingual UI for rural farmer access
-- 💼 **Open to:** Data Analyst, Data Science, and Backend Development internships
-- 🎯 **Superpower:** taking a 50,000-record mess and making it boardroom-ready in days, not weeks
-- 📫 **Reach me:** srushtisurwase60@gmail.com
-
-## 💼 Experience
-
-<table>
-<tr><th>Role</th><th>Organization</th><th>Impact</th></tr>
-<tr>
-<td><b>Data Analytics Intern</b></td>
-<td>TechnoKraft Services LLP<br/><sub>Jan 2026 – Feb 2026</sub></td>
-<td>Validated 50,000+ enterprise records · built live Power BI risk-analytics dashboards · deployed KPI tracking that surfaced real operational bottlenecks</td>
-</tr>
-<tr>
-<td><b>AI Backend Developer</b></td>
-<td>Build Pune Together (Startup)<br/><sub>2026</sub></td>
-<td>Designed the "Daily Priority Deck" feature end-to-end (product thinking + spec) · engineered scaling architecture — load balancer, Redis caching, read replicas, and message queues — for high-traffic backend reliability</td>
-</tr>
-</table>
-
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌾 AI-Powered Crop Yield Prediction
-End-to-end ML pipeline (Random Forest + XGBoost) for yield prediction, with a **CNN-based leaf disease detector** for early diagnosis and a time-series **market price forecaster** — wrapped in a multilingual UI so rural farmers can actually use it.
+**💰 EquiRise**
+Startup crowdfunding platform for India's Tier-2/3 cities. Integrates the Anthropic Claude API for AI-powered due diligence scoring and SEBI compliance features.
 
-`Python` `XGBoost` `CNN` `Time-Series`
+`Python` `Claude API` `FastAPI` `Fintech`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 ORACLE
-A distributed **multi-agent AI research ecosystem** — Orchestrator, Research, Fact-Verification, Analytical Reasoning, and Synthesis agents working together, with multi-modal input processing and automated report generation.
+**🏥 MedLingua-IN / AGENIX**
+Synthetic Indian-language clinical data generator, built for a healthcare AI hackathon using NVIDIA NeMo and Nemotron LLM.
 
-`Python` `Multi-Agent Systems` `LLMs`
-[**View on GitHub →**](https://github.com/SrushtiSurwase-14)
+`NVIDIA NeMo` `Nemotron` `Jinja2` `Pydantic`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Enterprise Risk & Operations Dashboard
-Automated data-cleaning pipeline for 50,000+ records, deep EDA surfacing critical business patterns, and real-time **Power BI / Tableau** dashboards for proactive risk decision-making.
+**🧠 ORACLE**
+A multi-agent AI research system designed to coordinate specialized agents on complex research tasks.
 
-`Power BI` `Tableau` `EDA` `KPI Tracking`
+`Multi-Agent Systems` `Python` `LLMs`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💸 EquiRise *(in progress)*
-Startup crowdfunding platform for India's Tier-2/3 cities, integrating AI-powered due diligence scoring and SEBI compliance checks for founders and investors.
+**📈 Quantium Uplift Analysis**
+End-to-end analytics project: Pearson correlation, t-tests, and control-store matching to measure the real impact of a trial, presented using the Pyramid Principle.
 
-`Python` `Claude API` `FinTech`
+`Python` `Statistics` `Data Storytelling`
 
 </td>
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+<div align="center">📌 All projects → <a href="https://github.com/SrushtiSurwase-14">github.com/SrushtiSurwase-14</a></div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=py,cpp,c,sql,git,github,vscode,redis" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
-<p>
-<b>AI / LLM Engineering</b><br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anthropic_Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG_Pipelines-6A0DAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-6A0DAD?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/CNN%2FDeep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-<p>
-<b>Backend & Systems</b><br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-</p>
+---
 
-## 🎓 Certifications
-
-<p>
-<img src="https://img.shields.io/badge/Data_Analyst_101-Microsoft_%26_Simplilearn-0078D4?style=flat-square&logo=microsoft"/>
-<img src="https://img.shields.io/badge/Data_Analytics_Essentials-Cisco-1BA0D7?style=flat-square&logo=cisco"/>
-<img src="https://img.shields.io/badge/AI_Fundamentals-IBM_Skills_Build-052FAD?style=flat-square&logo=ibm"/>
-<img src="https://img.shields.io/badge/HAL_Project_Competition-Participant-8A2BE2?style=flat-square"/>
-</p>
-
-> 📌 *Have a recent certificate to add here? Send me the name + issuer and I'll drop in a matching badge.*
-
-## 🏆 Leadership
-
-- **Ex-Committee Member, ADSA** (AI & Data Science Student Association) — planned & executed technical events, coding competitions and workshops
-- **Member, Genesis Coding Club** — active hackathon and coding-challenge participant
-- **IAENG Member** — presented data-driven research at college-level competitions
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SrushtiSurwase-14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrushtiSurwase-14&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SrushtiSurwase-14&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SrushtiSurwase-14&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<sub>If a stats card above shows a broken icon, it's the shared free hosting getting rate-limited — not your data. It clears on its own within a few minutes, or see the self-hosting fix in the setup notes below for a permanent solution.</sub>
+### 🛠️ Tech Stack
 
 <div align="center">
 
-### 💬 Let's Build Something
+**Languages & Core**
+<br>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,sql" />
 
-If you're hiring for **Data Analyst, Data Science, or Backend** roles — or just want to talk about turning messy data into clean decisions — my inbox is open.
+**Data Science & ML**
+<br>
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="./assets/footer.svg" width="100%"/>
+**Visualization & BI**
+<br>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+**AI / LLM Tooling**
+<br>
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+**Tools & Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SrushtiSurwase-14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrushtiSurwase-14&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SrushtiSurwase-14&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+I'm actively looking for **Data Science, Data Analytics, and Backend Development internships**. If you're hiring or just want to talk data & AI, reach out!
+
+<a href="https://www.linkedin.com/in/srushti-surwase"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="srushtisurwase60@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
