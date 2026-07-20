@@ -22,7 +22,6 @@ I'm a final-year **B.E. student in Artificial Intelligence & Data Science** at L
 - 🎓 Completed the **Quantium Data Analytics Virtual Internship** — full Python-based uplift testing, hypothesis testing, and client-facing insights presentation
 - 🌱 Actively learning: LLM engineering, RAG pipelines, LangChain, multi-agent AI systems
 - 🎯 Looking for: **Data Science / Data Analytics / Backend Development internships**
-- 📍 Based in Pune / Nashik, Maharashtra, India
 
 ---
 
