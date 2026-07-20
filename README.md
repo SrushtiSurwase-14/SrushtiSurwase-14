@@ -76,7 +76,7 @@ End-to-end analytics project: Pearson correlation, t-tests, and control-store ma
 
 **Languages & Core**
 <br>
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,sql,AI,ML" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,sql" />
 
 **Data Science & ML**
 <br>
